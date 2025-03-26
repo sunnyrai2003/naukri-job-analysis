@@ -1,4 +1,4 @@
-# naukri-job-analysis
+![Screenshot 2025-03-11 143619](https://github.com/user-attachments/assets/066663f4-0332-47c2-a5de-791d5ab18bef)# naukri-job-analysis
 
 # Case Study Overview
 
